@@ -1,10 +1,8 @@
 # NLW eSports - Trilha Explorer
 
-Projeto construído do evento Next Level Week da Rocketseat.
+Projeto construído através do evento Next Level Week da Rocketseat, abordando os fundamentos do HTML e CSS.
 
-https://GuadalupeMonteiro.github.io/NLW-Rocketseat
-
-## Tecnologias
+## Tecnologias Abordadas no Evento
 
 *HTML
 *CSS
